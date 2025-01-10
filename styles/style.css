@@ -94,6 +94,7 @@ body{
     width: 50%;
     border-radius: 10%;
     border: 2px solid #5e5e5e; /* Adiciona uma borda */
+
 }
 
 
@@ -184,5 +185,9 @@ body{
 
      .apresentacao__conteudo {
         width: auto; /*vai seguir a width e o padding ja definidos fora do media */
+     }
+
+     .apresentacao__imagem {
+        width: 30%;
      }
 }
