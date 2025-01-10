@@ -177,6 +177,7 @@ body{
 
 .cabecalho__menu {
     justify-content: center; /*alinha o cabeçalho ao centro do conteiner*/
+    
 }
 
     .apresentacao {
@@ -187,7 +188,12 @@ body{
         width: auto; /*vai seguir a width e o padding ja definidos fora do media */
      }
 
-     .apresentacao__imagem {
-        width: 50%;
+     .cabecalho__menu__link {
+        font-size: 3rem;
      }
+
+     .apresentacao__imagem {
+        width:35rem;
+     }
+     
 }
